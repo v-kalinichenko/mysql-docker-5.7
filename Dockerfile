@@ -1,4 +1,5 @@
 FROM oraclelinux:7-slim
+MAINTAINER "vkalinitc" <victor.kalinichenko@gmail.com>
 
 LABEL \
 	name="Orlp MySQL 5.7 Image" \
