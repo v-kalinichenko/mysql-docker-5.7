@@ -3,6 +3,7 @@ MAINTAINER "vkalinitc" <victor.kalinichenko@gmail.com>
 
 LABEL \
 	name="Orlp MySQL 5.7 Image" \
+	vendor="vkalinitc" \
 	image="mysql-5.7" \
 	build-date="2018-02-01"
 
